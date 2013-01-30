@@ -1,4 +1,4 @@
-于是乎在这里码点字因为赵亮要看
+﻿于是乎在这里码点字因为赵亮要看
 （不过说起来就算赵亮来了某也会写的……？）
 上午 
 ========
@@ -173,3 +173,4 @@ GPGPU和并行计算 by cyf&&gjq
 [1]: http://zh.wikipedia.org/wiki/%E5%B9%B3%E9%9D%A2%E5%9B%BE_(%E5%9B%BE%E8%AE%BA)#.E6.AD.90.E6.8B.89.E5.85.AC.E5.BC.8F
 [2]: http://www.oschina.net/p/box2d
 [3]: http://zh.wikipedia.org/wiki/%E4%BA%8C%E9%A1%B9%E5%A0%86
+
